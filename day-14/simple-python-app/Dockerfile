@@ -19,5 +19,5 @@ EXPOSE 5000
 # Set environment variables, if necessary
 # ENV MY_ENV_VAR=value
 
-# Run the Flask application and access on server side
+# Run the Flask application and access on server side to test who the codedeploy work
 CMD ["python", "app.py"]
